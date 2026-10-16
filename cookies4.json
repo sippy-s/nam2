@@ -1,0 +1,52 @@
+[
+  {
+    "name": ".apnv",
+    "value": "false",
+    "domain": "www.namasha.com",
+    "path": "/v/",
+    "expires": 1823179893,
+    "expirationDate": 1823179893,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "unspecified",
+    "hostOnly": true,
+    "session": false
+  },
+  {
+    "name": ".csrf",
+    "value": "rqtsWC2MIFWJjLHkhDtMq6ANoRJ0915_wfquEMWOzW4WmFEcjRwip5be4qyci5s4_j8tJnXtXMhw5TQSkl0U_SzyIxo1",
+    "domain": ".namasha.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "lax",
+    "hostOnly": false,
+    "session": true
+  },
+  {
+    "name": ".nsau",
+    "value": "9088E1BAB211130078D4B68C65DEFE8D4353E5ECAD1E75C2EAA86A433B66E762E1D60087169DFB455C9EBF3438B50C64C7A4D820A967AB5709FCDE9EBDAACE06C9FCA6A9EB4DE57BF3FFD619B8BE4467627742B7D3438B9462AAA6A7BD08C5AC008E9D79",
+    "domain": ".namasha.com",
+    "path": "/",
+    "expires": 1823697988.652777,
+    "expirationDate": 1823697988.652777,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "lax",
+    "hostOnly": false,
+    "session": false
+  },
+  {
+    "name": "g_state",
+    "value": "{\"i_l\":0,\"i_ll\":1792161730052,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1792161730052,\"i_b\":\"JdPG2XRtSQK3HlPojVxcHAHMX6G0y6U26PvIbjffRTE\"}",
+    "domain": "www.namasha.com",
+    "path": "/",
+    "expires": 1807713730,
+    "expirationDate": 1807713730,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "unspecified",
+    "hostOnly": true,
+    "session": false
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "mode": "channel",
+  "channel_url": "https://www.namasha.com/sippy",
+  "video_urls": [],
+  "max_videos": 1,
+  "comments_per_cookie_per_video": {
+    "cookies.json": 5000,
+    "cookies1.json": 5000,
+    "cookies2.json": 5000,
+    "cookies3.json": 5000,
+    "cookies4.json": 5000
+  },
+  "concurrency": 350
+}
